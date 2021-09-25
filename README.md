@@ -1,0 +1,2 @@
+# Convolutions
+This is a implementation of 2d convoution and 2d transpose convolution using the only math and numpy from scratch. I wrote this algorithm to better understand 2d and 2d transpose convolutions.
